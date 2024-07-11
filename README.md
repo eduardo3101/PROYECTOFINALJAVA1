@@ -25,8 +25,12 @@
       - Pudimos Analizar  y verificar los diferentes tipos de versiones
 *   5.5.- Github y Archivos Readme
       - Apreciamos el manejor correcot del Github y como poder hacer un buen manejor de codigos para la conexion de con visual Android
-*   5.6.- Codificacion
+*   6.6.- Codificacion
       - codigo orientada a objetos
+*   7.7.- Manejo de Errores
+      - Apreciamos los diferentes errores que pueden pasar al correr el codigo   
+*   8.8.- Activity
+      - manejo de activity
  
 *   ENLACES
 
