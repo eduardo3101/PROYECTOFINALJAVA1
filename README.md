@@ -30,7 +30,8 @@
  
 *   ENLACES
 
-      .[Sesion 01](app/src/main/java/com/example/practicas/practica01.kt)&nbsp;
+    -  .[Sesion 01](app/src/main/java/com/example/practicas)&nbsp;
+   
 
 
 
